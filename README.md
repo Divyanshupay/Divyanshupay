@@ -17,6 +17,9 @@ Building things that solve real problems. Currently obsessed with AI-powered too
 | [multi-model-router](https://github.com/Divyanshupay/multi-model-router) | LLM routing with cost tracking | TypeScript, OpenAI, Ollama |
 | [smart-receipt-scanner](https://github.com/Divyanshupay/smart-receipt-scanner) | Receipt scanning & expense tracking | React Native, Expo |
 | [create-fullstack-app](https://github.com/Divyanshupay/create-fullstack-app) | CLI to scaffold full-stack projects | Commander.js, TypeScript |
+| [ai-code-review](https://github.com/Divyanshupay/ai-code-review) | CLI that catches bugs before you push | TypeScript, Node.js |
+| [dev-expense-tracker](https://github.com/Divyanshupay/dev-expense-tracker) | Track dev subscriptions & API costs | React, TypeScript |
+| [api-rate-limiter](https://github.com/Divyanshupay/api-rate-limiter) | Rate limiting middleware | Node.js, TypeScript |
 
 ## Tech I use
 
@@ -37,9 +40,9 @@ Tools:      Git, Docker, Vercel, Railway
 
 ## Let's connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/divyanshupay)
-- 🐦 [Twitter](https://twitter.com/divyanshupay)
-- 🌐 [Website](https://divyanshupay.dev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/divyanshu-mishra-314902209/)
+- 🐦 [Twitter/X](https://x.com/sudopil)
+- 🌐 [Website](https://avalonso.me)
 
 ---
 
